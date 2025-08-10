@@ -33,5 +33,3 @@ python main.py
 - **Classes**: 80 COCO dataset classes
 - **Tracker**: BoT-SORT (default)
 
-## File Structure
-
