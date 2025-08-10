@@ -18,7 +18,9 @@ pip install ultralytics opencv-python
 
 ## Usage
 
-1. Place your video file as `test.mp4` in the project directory
+1. Download the test video file:
+   - **Direct Download**: [test.mp4](https://drive.google.com/file/d/1TM3KF_JC_j9znTjtsGxF8InmUbPPPOUE/view)
+   - **Alternative**: Place your own video file as `test.mp4` in the project directory
 2. Run the tracking script:
 
 ```bash
